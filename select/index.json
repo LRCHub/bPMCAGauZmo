@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Halloween Night Magic",
+  "base_artist": "みき・ななせ from AIKATSU☆STARS!",
+  "createdAt": "2025-12-17T19:18:05.979093Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Halloween Night Magic",
+      "artist": "みき・ななせ from AIKATSU☆STARS!",
+      "has_synced": false,
+      "path": "select/pl_01_Halloween_Night_Magic_みき・ななせ_from_AIKATSU☆STARS!.txt"
+    }
+  ]
+}
